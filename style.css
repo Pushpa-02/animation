@@ -1,0 +1,11 @@
+div{
+    height:200px;
+    width:230px;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOEvSmsrBHxS1gqOEdAtWQleCbhy5-tZYUGpgZVLf-dA&s");
+    background-color:rgb(0, 183, 255);
+    position:absolute;
+    animation-name:anime;
+    animation-duration:3s;
+    animation-delay:2s;
+
+}
